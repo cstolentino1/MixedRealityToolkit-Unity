@@ -9,7 +9,7 @@ public class AudioSync : MonoBehaviour
     void Start()
     {
         // Find all active AudioSource components in the scene
-        audioSources = FindObjectsOfType<AudioSource>();
+        audioSources = FindObjectsByType<AudioSource>(FindObjectsSortMode.None);
 
         // Start coroutine to delay playback
         StartCoroutine(StartAllAudioAfterDelay(startAfter));
