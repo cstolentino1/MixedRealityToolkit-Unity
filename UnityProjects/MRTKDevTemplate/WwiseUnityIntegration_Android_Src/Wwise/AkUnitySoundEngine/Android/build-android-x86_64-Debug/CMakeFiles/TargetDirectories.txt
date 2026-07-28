@@ -1,0 +1,3 @@
+C:/Users/carlt/Documents/GitHub/naviqual-room-acoustics/UnityProjects/MRTKDevTemplate/WwiseUnityIntegration_Android_Src/Wwise/AkUnitySoundEngine/Android/build-android-x86_64-Debug/CMakeFiles/AkUnitySoundEngineAndroid.dir
+C:/Users/carlt/Documents/GitHub/naviqual-room-acoustics/UnityProjects/MRTKDevTemplate/WwiseUnityIntegration_Android_Src/Wwise/AkUnitySoundEngine/Android/build-android-x86_64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/carlt/Documents/GitHub/naviqual-room-acoustics/UnityProjects/MRTKDevTemplate/WwiseUnityIntegration_Android_Src/Wwise/AkUnitySoundEngine/Android/build-android-x86_64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v6
+161	329	8066092734595381	CMakeFiles/AkUnitySoundEngineAndroid.dir/stdafx.cpp.o	25ccbfba1a060840
+30	1226	8066092733260342	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkFileLocationBase.cpp.o	25489ecf6cb1e2b7
+51	1208	8066092733417414	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkFilePackageLUT.cpp.o	e6d91afb8684ba8f
+10	1242	8066092732940724	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkCallbackSerializer.cpp.o	86c49aa78ba21ea
+122	1348	8066092734200209	CMakeFiles/AkUnitySoundEngineAndroid.dir/AkFileHelpers.cpp.o	ee309b52a8edd905
+108	1157	8066092734050488	CMakeFiles/AkUnitySoundEngineAndroid.dir/AkDefaultIOHookDeferred.cpp.o	66e6d72cd729b812
+82	1212	8066092733782061	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkUnityErrorMessageTranslator.cpp.o	fe9a56e40862a1b3
+59	1202	8066092733577248	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkGeneratedSoundBanksResolver.cpp.o	4fa21d81f6df4956
+37	1205	8066092733297205	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkFilePackage.cpp.o	61c4f3b53a709093
+89	1504	8066092733782061	CMakeFiles/AkUnitySoundEngineAndroid.dir/66b72f17d7e24789f4b9bb8292f0093e/AkUnitySoundEngineStubs.cpp.o	47711ae67d3ad8ab
+149	1642	8066092734370247	CMakeFiles/AkUnitySoundEngineAndroid.dir/SoundEngine_wrap.cxx.o	2ac6ea5d40b62f50
+1643	2154	8066092749381681	C:/Users/carlt/Documents/GitHub/naviqual-room-acoustics/UnityProjects/MRTKDevTemplate/WwiseUnityIntegration_Android_Src/Wwise/Integration/Assets/Wwise/API/Runtime/Plugins/Android/x86_64/Debug/libAkUnitySoundEngine.so	12954af67e80e6fe

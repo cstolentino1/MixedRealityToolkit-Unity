@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1349634307",
+    "Type": "User",
+    "GUID": "{C36E57B1-9847-4E2A-8E34-2AC57F8E8B73}",
+    "Language": "SFX",
+    "Hash": "{E30FAA25-CCCE-4D46-EB9C-7EFE7F88AFE9}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MagicLeap_Test",
+    "ShortName": "MagicLeap_Test",
+    "Path": "MagicLeap_Test.bnk"
+   }
+  ],
+  "FileHash": "{21AF1D0C-0A01-AD6B-D4E6-8D32DF8BB0DB}"
+ }
+}
