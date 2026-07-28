@@ -331,7 +331,9 @@ MonoBehaviour:
   openxrExtensionStrings: XR_EXT_performance_settings
   company: Unity
   priority: 0
+  targetOpenXRApiVersion: 
   required: 0
+  customRuntimeLoaderName: 
 --- !u!114 &-5661318752605799240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1787,7 +1789,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   features:
   - {fileID: -5710041234093651926}
+  customLoaderName: 
   m_renderMode: 1
+  m_latencyOptimization: 0
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
     m_List: 00000000

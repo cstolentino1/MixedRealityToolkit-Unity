@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba5dc8dcd4d0d36499bf4e2d88334287, type: 3}
-  m_Name: FC761394-D310-4E8D-90C2-9C20968664F0
+  m_Name: 44189284-8A87-4DE5-9EBA-86834C8D8DB8
   m_EditorClassIdentifier: 
-  objectName: Play_vocals
-  id: 3272453220
-  guid: FC761394-D310-4E8D-90C2-9C20968664F0
-  IsInUserDefinedSoundBank: 1
+  objectName: Play_drums_3D
+  id: 636489057
+  guid: 44189284-8A87-4DE5-9EBA-86834C8D8DB8
+  IsInUserDefinedSoundBank: 0

@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d2e6b44fb75a3f47ab63215d3abe592, type: 3}
   m_Name: MagicLeapMRTK3SettingsPermissionsConfig
   m_EditorClassIdentifier: 
-  windowedGUIExpanded: 0
+  windowedGUIExpanded: 1
   version: 1
   autoRequestDangerousPermissionsEnabled: 1
   dangerousPermissions:
