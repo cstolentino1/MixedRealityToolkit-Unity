@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1572788593	RoomIR			\Default Work Unit\Main Audio Bus\RoomIR	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3701691487	Hall_Large_Bright	Wwise RoomVerb			
+

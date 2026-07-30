@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "4062567473",
+    "Type": "Event",
+    "GUID": "{44189284-8A87-4DE5-9EBA-86834C8D8DB8}",
+    "Language": "SFX",
+    "Hash": "{159C7CF1-F07D-827A-C407-B5CCF9E8B61D}",
+    "ObjectPath": "Play_drums",
+    "ShortName": "Play_drums",
+    "Path": "Event/Play_drums.bnk",
+    "Media": [
+     {
+      "Id": "341348281",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "drums.wav",
+      "Path": "Media/341348281.wem",
+      "CachePath": "12/{1251C980-20A9-DD57-A6B1-082E54B1BD38}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4062567473",
+      "Name": "Play_drums",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_drums",
+      "GUID": "{44189284-8A87-4DE5-9EBA-86834C8D8DB8}",
+      "MaxAttenuation": "20",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "341348281"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1572788593",
+        "Name": "RoomIR",
+        "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+        "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F75E8922-2A09-EC77-CC38-8325C411F2D4}"
+ }
+}

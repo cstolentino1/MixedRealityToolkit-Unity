@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1560528335	Play_bass			\Default Work Unit\Play_bass	
+

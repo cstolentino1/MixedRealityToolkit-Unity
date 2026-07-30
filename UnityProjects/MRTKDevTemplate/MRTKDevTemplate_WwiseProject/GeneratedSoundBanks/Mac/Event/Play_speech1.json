@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "2349476717",
+    "Type": "Event",
+    "GUID": "{EA9533D8-62B6-4D22-93B0-B5F9FEF58309}",
+    "Language": "SFX",
+    "Hash": "{EFEBBF06-C118-5079-7FDC-9635B09516AC}",
+    "ObjectPath": "Play_speech1",
+    "ShortName": "Play_speech1",
+    "Path": "Event/Play_speech1.bnk",
+    "Media": [
+     {
+      "Id": "583529935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "clnsp0.wav",
+      "Path": "Media/583529935.wem",
+      "CachePath": "EC/{EC62F65A-F84A-3A16-6EE2-0A7FB1195D15}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2349476717",
+      "Name": "Play_speech1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_speech1",
+      "GUID": "{EA9533D8-62B6-4D22-93B0-B5F9FEF58309}",
+      "MaxAttenuation": "20",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "583529935"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1572788593",
+        "Name": "RoomIR",
+        "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+        "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7C6E1CEE-93EC-F443-6308-7DD0C5300C01}"
+ }
+}

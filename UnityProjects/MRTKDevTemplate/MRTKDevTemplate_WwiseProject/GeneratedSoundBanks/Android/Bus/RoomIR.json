@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1572788593",
+    "Type": "Bus",
+    "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}",
+    "Language": "SFX",
+    "Hash": "{89D5C798-F2CE-81AA-9426-171FAFC33E6B}",
+    "ObjectPath": "RoomIR",
+    "ShortName": "RoomIR",
+    "Path": "Bus/RoomIR.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "3701691487",
+       "Name": "Hall_Large_Bright",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Halls\\Hall_Large_Bright",
+       "GUID": "{CB602948-2D1D-4977-A8D5-378184293E80}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "1572788593",
+      "Name": "RoomIR",
+      "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+      "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3701691487"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E5BF4D69-80FA-C4DF-226B-FCBBB2D4A670}"
+ }
+}

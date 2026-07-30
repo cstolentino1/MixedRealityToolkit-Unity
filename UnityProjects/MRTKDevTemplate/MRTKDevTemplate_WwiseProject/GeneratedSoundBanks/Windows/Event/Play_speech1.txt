@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2349476717	Play_speech1			\Default Work Unit\Play_speech1	
+

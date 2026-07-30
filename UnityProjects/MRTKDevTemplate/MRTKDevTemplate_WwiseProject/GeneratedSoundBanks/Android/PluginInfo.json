@@ -4,6 +4,13 @@
   "BasePlatform": "Android",
   "PluginLibs": [
    {
+    "LibName": "Wwise RoomVerb",
+    "LibId": "7733251",
+    "Type": "Effect",
+    "DLL": "AkRoomVerb",
+    "StaticLib": "AkRoomVerbFX"
+   },
+   {
     "LibName": "System",
     "LibId": "11403271",
     "Type": "AudioDevice"
@@ -14,6 +21,6 @@
     "Type": "AudioDevice"
    }
   ],
-  "FileHash": "{18CD9949-654D-326A-2A68-3AA18E1D7FC0}"
+  "FileHash": "{DDCB80DF-4A34-C7FA-4333-97264F9AF44B}"
  }
 }

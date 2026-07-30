@@ -13,7 +13,11 @@ namespace AK
 {
     namespace EVENTS
     {
-        static const AkUniqueID PLAY_DRUMS_3D = 636489057U;
+        static const AkUniqueID PLAY_BASS = 1560528335U;
+        static const AkUniqueID PLAY_DRUMS = 4062567473U;
+        static const AkUniqueID PLAY_OTHER = 2102561324U;
+        static const AkUniqueID PLAY_SPEECH1 = 2349476717U;
+        static const AkUniqueID PLAY_VOCALS = 3272453220U;
     } // namespace EVENTS
 
     namespace BANKS
@@ -26,6 +30,11 @@ namespace AK
     {
         static const AkUniqueID MAIN_AUDIO_BUS = 2246998526U;
     } // namespace BUSSES
+
+    namespace AUX_BUSSES
+    {
+        static const AkUniqueID ROOMIR = 1572788593U;
+    } // namespace AUX_BUSSES
 
     namespace AUDIO_DEVICES
     {

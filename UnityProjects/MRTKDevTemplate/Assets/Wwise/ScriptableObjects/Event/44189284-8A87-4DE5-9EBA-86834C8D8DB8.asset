@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba5dc8dcd4d0d36499bf4e2d88334287, type: 3}
   m_Name: 44189284-8A87-4DE5-9EBA-86834C8D8DB8
   m_EditorClassIdentifier: 
-  objectName: Play_drums_3D
-  id: 636489057
+  objectName: Play_drums
+  id: 4062567473
   guid: 44189284-8A87-4DE5-9EBA-86834C8D8DB8
   IsInUserDefinedSoundBank: 0

@@ -4,9 +4,6 @@
 		<WorkUnit Name="Default Work Unit" ID="{689CDE00-9227-4B77-BBF7-425A75074005}" PersistMode="Standalone">
 			<ChildrenList>
 				<Event Name="Play_vocals" ID="{FC761394-D310-4E8D-90C2-9C20968664F0}">
-					<PropertyList>
-						<Property Name="Inclusion" Type="bool" Value="False"/>
-					</PropertyList>
 					<ChildrenList>
 						<Action Name="" ID="{B127815C-EC04-44DE-A2C8-CC54DCB40242}" ShortID="261953296">
 							<ReferenceList>
@@ -17,12 +14,45 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_drums_3D" ID="{44189284-8A87-4DE5-9EBA-86834C8D8DB8}">
+				<Event Name="Play_drums" ID="{44189284-8A87-4DE5-9EBA-86834C8D8DB8}">
 					<ChildrenList>
 						<Action Name="" ID="{B2127508-2AD6-4BF5-ADCB-1EF27FE067F7}" ShortID="398848794">
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="drums" ID="{4C850E8D-2A44-431D-97CD-8F828D782750}" WorkUnitID="{7CE4F03E-2B79-48EB-9AD5-65E6958C4269}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_bass" ID="{FF6C6C02-C174-44B7-843F-70DB9A5300AD}">
+					<ChildrenList>
+						<Action Name="" ID="{E63DD670-B1E5-48B9-BD23-15EF1A63ED2E}" ShortID="611059107">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="bass" ID="{BA8719DC-31F7-47D0-ACF3-9A7C8EF47C9A}" WorkUnitID="{7CE4F03E-2B79-48EB-9AD5-65E6958C4269}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_other" ID="{4887ED78-59C8-4A1D-99D4-810C50B80314}">
+					<ChildrenList>
+						<Action Name="" ID="{C733D67A-C268-474C-AF19-191977541FC9}" ShortID="614160878">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="other" ID="{5A0BCF6F-F04D-47BD-9776-633AC6F95B83}" WorkUnitID="{7CE4F03E-2B79-48EB-9AD5-65E6958C4269}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_speech1" ID="{EA9533D8-62B6-4D22-93B0-B5F9FEF58309}">
+					<ChildrenList>
+						<Action Name="" ID="{6129E8AB-68D4-429D-B3D0-D396505B0C4F}" ShortID="598172126">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="clnsp0" ID="{766E3FD4-DBC2-42C8-BB94-F1645FAD6030}" WorkUnitID="{7CE4F03E-2B79-48EB-9AD5-65E6958C4269}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

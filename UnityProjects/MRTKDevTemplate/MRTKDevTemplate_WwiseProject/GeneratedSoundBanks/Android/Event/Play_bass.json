@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1560528335",
+    "Type": "Event",
+    "GUID": "{FF6C6C02-C174-44B7-843F-70DB9A5300AD}",
+    "Language": "SFX",
+    "Hash": "{1B7439BA-304F-F1E8-B9C5-EA8037ADB922}",
+    "ObjectPath": "Play_bass",
+    "ShortName": "Play_bass",
+    "Path": "Event/Play_bass.bnk",
+    "Media": [
+     {
+      "Id": "1054447803",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "bass.wav",
+      "Path": "Media/1054447803.wem",
+      "CachePath": "0B/{0BF0ACAA-2D66-1C54-7D7F-FAF27B257DBC}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1560528335",
+      "Name": "Play_bass",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_bass",
+      "GUID": "{FF6C6C02-C174-44B7-843F-70DB9A5300AD}",
+      "MaxAttenuation": "20",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "1054447803"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1572788593",
+        "Name": "RoomIR",
+        "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+        "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5F402C6C-4441-E7F2-A879-0D6B0CF7BE89}"
+ }
+}

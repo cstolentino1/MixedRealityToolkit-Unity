@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "2102561324",
+    "Type": "Event",
+    "GUID": "{4887ED78-59C8-4A1D-99D4-810C50B80314}",
+    "Language": "SFX",
+    "Hash": "{C4182278-B428-1E5A-5D8D-3DE9FE966425}",
+    "ObjectPath": "Play_other",
+    "ShortName": "Play_other",
+    "Path": "Event/Play_other.bnk",
+    "Media": [
+     {
+      "Id": "312267171",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "other.wav",
+      "Path": "Media/312267171.wem",
+      "CachePath": "DB/{DB3C94D1-DE51-A6A2-4AA7-218C11C3E207}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2102561324",
+      "Name": "Play_other",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_other",
+      "GUID": "{4887ED78-59C8-4A1D-99D4-810C50B80314}",
+      "MaxAttenuation": "20",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "312267171"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1572788593",
+        "Name": "RoomIR",
+        "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+        "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{75E6E640-BCE3-4ACD-00B8-64AACF969DE5}"
+ }
+}

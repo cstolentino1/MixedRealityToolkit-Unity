@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Android",
+  "BasePlatform": "Android",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3272453220",
+    "Type": "Event",
+    "GUID": "{FC761394-D310-4E8D-90C2-9C20968664F0}",
+    "Language": "SFX",
+    "Hash": "{BF91F592-C702-C6BE-14ED-2D938B407E09}",
+    "ObjectPath": "Play_vocals",
+    "ShortName": "Play_vocals",
+    "Path": "Event/Play_vocals.bnk",
+    "Media": [
+     {
+      "Id": "110778086",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "vocals.wav",
+      "Path": "Media/110778086.wem",
+      "CachePath": "1E/{1EEE8251-8B69-4F50-448B-E6BB8F9B1B8D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3272453220",
+      "Name": "Play_vocals",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_vocals",
+      "GUID": "{FC761394-D310-4E8D-90C2-9C20968664F0}",
+      "MaxAttenuation": "20",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "110778086"
+       }
+      ],
+      "AuxBusRefs": [
+       {
+        "Id": "1572788593",
+        "Name": "RoomIR",
+        "ObjectPath": "\\Busses\\Default Work Unit\\Main Audio Bus\\RoomIR",
+        "GUID": "{38BBA9DB-8EDD-471F-8934-D35DC3B95293}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{13697EBE-974B-9393-4418-A1A7B3C9CE92}"
+ }
+}
